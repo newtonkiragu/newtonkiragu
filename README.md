@@ -1,7 +1,9 @@
 ## Hello, I write coffee and sip code.
 
-<details open><summary><b>GitHub Readme Stats</b></summary><img align="center" src="https://github-readme-stats.vercel.app/api?username=newtonkiragu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=percentile" alt="newtonkiragu's GitHub stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonkiragu&layout=compact&theme=buefy&hide_border=true&langs_count=20"/></details>
+<details open><summary><b>GitHub Readme Stats</b></summary>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=newtonkiragu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&number_format=long&rank_icon=percentile" alt="newtonkiragu's GitHub stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=newtonkiragu&layout=compact&theme=buefy&hide_border=true&langs_count=20"/>
+</details>
 
 <details open><summary><b>GitHub Trophy Stats</b></summary>
 
